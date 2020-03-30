@@ -1,0 +1,17 @@
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\bin\Debug\Quan_ly_bai_do_xe_main.exe.config
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\bin\Debug\Quan_ly_bai_do_xe_main.exe
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\bin\Debug\Quan_ly_bai_do_xe_main.pdb
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.Properties.Resources.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.csproj.GenerateResource.cache
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.exe
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.pdb
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.Login_form.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.Quan_ly.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\bin\Debug\Bunifu_UI_v1.52.dll
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.csproj.CopyComplete
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.connect.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.SQL.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.Menu.resources
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\bin\Debug\LibLED.dll
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.csprojAssemblyReference.cache
+D:\DATA\NCKH_2019\visual_studio\Quan_ly_bai_do_xe_main\Quan_ly_bai_do_xe_main\obj\Debug\Quan_ly_bai_do_xe_main.csproj.CoreCompileInputs.cache
